@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "197005284103",
+    "firebase_url": "https://uber-eats-e6fa7-default-rtdb.firebaseio.com",
+    "project_id": "uber-eats-e6fa7",
+    "storage_bucket": "uber-eats-e6fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197005284103:android:45b9eef74b6dd02c2ceba2",
+        "android_client_info": {
+          "package_name": "com.example.ubereats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFV_seLmQnHYM4x-yXRXHIuetFxkaK1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197005284103:android:a47031decb1504d42ceba2",
+        "android_client_info": {
+          "package_name": "com.example.ubereatsdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFV_seLmQnHYM4x-yXRXHIuetFxkaK1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197005284103:android:4868bbe5a13778932ceba2",
+        "android_client_info": {
+          "package_name": "com.example.ubereatsresturant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFV_seLmQnHYM4x-yXRXHIuetFxkaK1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
